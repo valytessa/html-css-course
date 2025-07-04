@@ -1,1 +1,8 @@
-node_modules
+# Ignore output CSS
+/src/output.css
+
+# Node modules
+node_modules/
+
+# Optional: macOS or Linux system files
+.DS_Store
