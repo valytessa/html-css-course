@@ -1,0 +1,23 @@
+p {
+  font-family: Arial;
+  margin: 0;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.hour {
+  color: gray;
+}
+
+.description {
+  margin-top: 5px;
+  margin-bottom: 15px;
+  width: 500px;
+}
+
+.tag {
+  color: rgb(101, 101, 255);
+}
